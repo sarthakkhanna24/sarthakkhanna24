@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on web development...
 - 🌱 I’m a passionate tech learner
-- 👯 I’m looking for opportunities related to working on development
-- 💬 Ask me about ...
+- 👯 I’m looking for opportunities in Web development
 - 📫 How to reach me: khannasarthak051@gmail.com...
 - ⚡ Fun fact: I'm an Engineer by Choice
 
